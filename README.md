@@ -1,10 +1,9 @@
 # Scattered Software Engineering Ideas
-Ideas / Resources
 
 
-# Most important skills
+## Most important skills
 
-## Knowing how to solve problems
+### Knowing how to solve problems
 - Have grit
 - Know how to ask questions. Questions should include:
     - a summary of problem
@@ -33,7 +32,7 @@ Ideas / Resources
 - Think on causes of bugs, think on internals of language.
 
 
-## Adaptability to new tech
+### Adaptability to new tech
 Software engineering stack is rapidly changing. Learning any tool very well would lose its value in 5-10 years. What is important is learning how to learn a new tool/tech faster. Which involves:
     - Knowing where to find resources, 
     - who to get insights from. 
@@ -41,10 +40,10 @@ Software engineering stack is rapidly changing. Learning any tool very well woul
     
  Always follow blogs, observe others about best practices on X. Pitfalls for Y.
     
-## Sense for where to invest next
+### Sense for where to invest next
 Should know learning what would provide highest return of investment (ROI). Always prioritize your learning by that.
 
-## Learning tools best for maximum productivity
+### Learning tools best for maximum productivity
 Learn productivity tools and how to orchestrate them together extremely well. These tools will be changing by time and are ever improving. Therefore always be searching for better productivity tools. Upgrade/change them if a change would make you more productivity. For today (2019), most important ones are:
  - Profile yourself. Where do you spend most time? Which tool? Whic process? Optimize your usage of that tool, process!!
  - Editor (Intellij, Pycharm)
@@ -60,9 +59,9 @@ Learn productivity tools and how to orchestrate them together extremely well. Th
  - Jira
     - how to plan all work. be able to note anything coming to your mind. have a light structure
     
-## Read classical software books, learn best practices, common pitfalls
+### Read classical software books, learn best practices, common pitfalls
  
-## Avoiding bugs
+### Avoiding bugs
  - simple coding
  - assertions for edge cases
  - unit testing
